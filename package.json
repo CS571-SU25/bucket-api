@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@cs571/api-framework": "0.5.1",
+    "@cs571/api-framework": "0.5.2",
     "@types/jsonwebtoken": "^9.0.3",
     "async-mutex": "^0.5.0",
     "cookie-parser": "^1.4.6",
