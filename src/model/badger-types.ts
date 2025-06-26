@@ -1,0 +1,1 @@
+export type DBData = Record<string, {[x: string]: object}>;
